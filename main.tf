@@ -11,7 +11,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "resource_group" {
-  name     = "srinivasa"
+  name     = "devops-training"
   location = "East US"
 }
 
